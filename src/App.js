@@ -17,7 +17,7 @@ function App() {
   ]
   return (
     <div className="App">
-      <h1>Students Data</h1>
+      <h1>Students Details</h1>
       <Table striped variant="dark">
         <tbody>
         <tr>
