@@ -1,8 +1,5 @@
-
 {
-  
-
-
+  "homepage": "http://kakimanikumari.github.io/Assignment--React Table--",
   "name": "table",
   "version": "0.1.0",
   "private": true,
@@ -15,17 +12,15 @@
     "react-bootstrap": "^1.6.0",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2",
-    "homepage":"http://kakimanikumari.github.io/Assignment--10"
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
-    
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
